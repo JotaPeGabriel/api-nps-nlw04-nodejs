@@ -21,6 +21,7 @@
       <a href="#-testes">Testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
       <a href="#-links-do-projeto">Links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
       <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-o-que-e-next-level-week">O que é Next Level Week?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
       <a href="#-license">Licença</a>
   </p>
 </h3>
@@ -98,6 +99,7 @@ Para testar se instalou a aplicação corretamente e se passa em todos os testes
 - [Aula 2](https://www.notion.so/danileao/Dia-2-Iniciando-com-o-Banco-de-Dados-ffa8a141872641b7b13338f339d7a69b)
 - [Aula 3](https://www.notion.so/Dia-3-Testando-a-nossa-aplica-o-6b517e6d081241258009c640f7032cde)
 - [Aula 4](https://www.notion.so/danileao/Dia-4-Envio-de-e-mail-1b85cb36f0a84e5e90a43e3acbce5674)
+- 
 
 ### Resources
 [Ícones e Wallpapers](https://drive.google.com/drive/folders/11fxy_LmTD6S1FGTQbeu47QPLzvyuEGSs)
@@ -115,6 +117,22 @@ As aulas foram ministradas pela **[Daniele Leão](https://github.com/danileao)**
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+## 📣 O que é Next Level Week?
+
+<p> 
+ O NLW (antiga onmistack) é uma semana onde a <strong>Rocketseat</strong> mostram como montar uma aplicação do zero com as melhores tecnologias do mercado.
+<br>
+A Rocketseat tem a consciência que a prática é a melhor aula, então sempre nos inspiram e lançam desafios para a gente se virar sozinho!
+</p>
+<strong>Pilhares do metódo de ensino Rocketseat</strong><br>
+<li><strong>Foco: </strong> Dominar todas as linguagens e tecnologias é impossível, por isso é importante focar para ir direto ao ponto sem perder tempo.</li>
+<li><strong>Grupo: </strong> A comunidade de devs é uma das melhores comunidades que existem! Trabalhar em grupo é essencial, já perdi a conta de quantas vezes ajudei e fui ajudado com erros de programação.</li>
+<li><strong>Prática: </strong> E claro, não podia faltar! Quando vemos uma aula, nós podemos entender os conceitos, mas só na prática que aprendemos realmente como faze-los! </li>
+
+<div align="center">
+<img  src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4b24bb94-c9ea-4984-a8cb-300ce4553abb%2Fnlw4-banner-github.png?table=block&id=d50c626b-7d28-4bfc-b9f0-ea2b42347e3e&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=5120&userId=aaa75990-d584-4b7e-a045-99eb29503a22&cache=v2">
+</div>
 
 ## 📝 License
 
